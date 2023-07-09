@@ -14,7 +14,7 @@ const expLogger = expPino({
     logger: logger
 });
 
-// MongoDB1
+// MongoDB
 var db;
 var collection;
 var mongoConnected = false;
